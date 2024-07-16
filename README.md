@@ -2,6 +2,8 @@
 
 This repository contains a sample that demonstrates how to create a scrollbar chart in Flutter using the Syncfusion Flutter Charts and Sliders packages.
 
+Please refer to the blog through this [link](https://www.syncfusion.com/blogs/post/adding-scrollbar-in-flutter-charts).
+
 ## Syncfusion controls:
 
 This project used the following Syncfusion widget(s):
